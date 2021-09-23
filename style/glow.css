@@ -1,0 +1,7 @@
+.glow {
+  font-size: 10px;
+  color: rgb(49, 205, 216);
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
